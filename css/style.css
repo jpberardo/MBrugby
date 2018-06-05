@@ -1,0 +1,151 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+body{
+font-family: 'Raleway', sans-serif;
+
+}
+nav ul a,
+nav .brand-logo {
+  color: #EF5350;
+}
+
+nav .brand-logo {
+font-family: 'Raleway', sans-serif;
+}
+nav .brand-logo2 {
+font-family: 'Homemade Apple', cursive;
+}
+nav .nav-wrapper {
+    padding: 0 50px;
+}
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #EF5350;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+
+.section-intro {
+  height: 100%;
+  width: 100%;
+}
+
+
+.header{margin-top: 15%;font-size: 3.8em;}
+
+.header-subtitle{margin-top: 10%;
+font-size: 1.8em;
+}
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+
+  nav .nav-wrapper {
+    padding: 0 10px;
+  }
+
+}
+.header-sub {
+  margin: 18%;
+ font-family: 'Raleway', sans-serif;
+}
+
+.header-sub2 {
+  font-family: 'Homemade Apple', cursive;font-size: 2.4em;
+}
+
+.btn-intro {width: 100%;
+  margin-top: 5%;}
+
+.col-servizio {
+  margin-top: 50px;
+  margin-bottom: 100px
+}
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+  margin: 0%;
+}
+
+
+#servizio h5 {font-size: 1.5em;
+line-height: 1.6em}
+
+footer.page-footer {
+  margin: 0;
+  background-color: #305467;
+}
+
+.section-registrazione {
+  height: 100%;
+  width: 100%;
+}
+
+.registrazione-icon {font-size: 7em;
+margin-top: 60px;
+}
+.registrazione-subtitle{font-size: 1.8em; margin-top: 10%;
+}
+.btn-registrazione {width: 100%;
+  margin-top: 1%;
+}
+.margen {margin-top: 5%;
+}
+.social-icon {font-size: 1.5em;
+color: #fff;
+padding: 0 20px;
+}
+.social-icon:hover {
+  color: #ef3550;
+}
+
+#siamo h6 {font-size: 1.2em;
+line-height: 1.6em;
+}
+
+.section-chisiamo {
+  height: 100%;
+  width: 100%;
+}
+
+.img-cani {
+height: 150px;
+padding-top: 10px;
+}
+.img-jp {
+height: 150px;
+padding-top: 10px;
+}
+
+.img-responsive {
+height: 50px;
+padding-top: 10px;
+}
+
+
