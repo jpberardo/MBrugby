@@ -133,10 +133,17 @@ line-height: 1.6em;
   height: 100%;
   width: 100%;
 }
+
 .img-background2 {
 height: 150px;
 padding-top: 10px;
 }
+
+.img-cani {
+height: 150px;
+padding-top: 10px;
+}
+
 .img-jp {
 height: 150px;
 padding-top: 10px;
