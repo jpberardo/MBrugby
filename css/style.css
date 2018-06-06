@@ -133,6 +133,12 @@ line-height: 1.6em;
   width: 100%;
 }
 
+.img-background1 {
+height: 100px;
+padding-top: 50px;
+}
+
+
 .img-background2 {
 height: 150px;
 padding-top: 10px;
