@@ -67,6 +67,11 @@ font-size: 1.8em;
     padding: 0 10px;
   }
 
+.img-logo{
+height: 10px;
+padding-top: 0px;
+}
+
 }
 .header-sub {
   margin: 18%;
