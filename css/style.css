@@ -22,6 +22,11 @@ font-family: 'Homemade Apple', cursive;
 nav .nav-wrapper {
     padding: 0 50px;
 }
+
+nav.img-logo{
+height: 50px;
+}
+
 p {
   line-height: 2rem;
 }
@@ -67,9 +72,6 @@ font-size: 1.8em;
     padding: 0 10px;
   }
 
-.img-logo{
-height: 50px;
-}
 
 }
 .header-sub {
