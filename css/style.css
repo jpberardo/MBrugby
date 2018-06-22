@@ -27,7 +27,7 @@ nav .nav-wrapper {
 }
 
 .img-logo{
-width: 50px; padding: 0 50px;
+width: 50px; padding: 0 50px
 }
 
 p {
@@ -140,9 +140,6 @@ line-height: 1.6em;
 .section-chisiamo {
   height: 100%;
   width: 100%;
-}
-.img-logo2 {
-width: 70px; padding: 0 50px;
 }
 
 .img-background1 {
