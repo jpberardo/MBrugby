@@ -141,6 +141,9 @@ line-height: 1.6em;
   height: 100%;
   width: 100%;
 }
+.img-logo2 {
+width: 70px; padding: 0 50px;
+}
 
 .img-background1 {
 height: 100px;
