@@ -27,7 +27,7 @@ nav .nav-wrapper {
 }
 
 .img-logo{
-width: 50px;
+width: 50px; padding: 0 50px;
 }
 
 p {
