@@ -9,7 +9,7 @@ body{
 font-family: 'Raleway', sans-serif; 
 }
 body.bodybackground {
-  color background: #212121;
+  background-color: #212121;
 }
 nav ul a,
 nav .brand-logo {
@@ -42,7 +42,7 @@ p {
   min-height: 380px;
   line-height: 0;
   height: auto;
-  color: #212121;
+  color : #212121;
 }
 
 .section-intro {
