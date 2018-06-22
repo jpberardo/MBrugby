@@ -6,7 +6,7 @@
  * Made By MaterializeCSS.com
  */
 body{
-font-family: 'Raleway', sans-serif;
+font-family: 'Raleway', sans-serif; color: #212121;
 }
 nav ul a,
 nav .brand-logo {
