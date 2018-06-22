@@ -6,7 +6,10 @@
  * Made By MaterializeCSS.com
  */
 body{
-font-family: 'Raleway', sans-serif; color-background: #212121;
+font-family: 'Raleway', sans-serif; 
+}
+body.bodybackground {
+  color-background: #212121;
 }
 nav ul a,
 nav .brand-logo {
