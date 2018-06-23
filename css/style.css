@@ -74,7 +74,10 @@ font-size: 1.8em;
   nav .nav-wrapper {
     padding: 0 10px;
   }
-
+  
+.img-logo1 {width: 100px;
+margin-top: 5%;
+}
 
 }
 .header-sub {
