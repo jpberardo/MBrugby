@@ -77,11 +77,11 @@ font-size: 1.8em;
   nav .nav-wrapper {
     padding: 0 4px;
   }
-.img-logo0{ width: 50px;
- }
+.img-logo0 { width: 50px;
+  }
  nav .brand-logo {
 font-family: 'Raleway', sans-serif; 
-width: 120px;
+width: 120px; font-size: 2.0em;
   }
 
 }
