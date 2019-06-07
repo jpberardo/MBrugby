@@ -71,7 +71,7 @@ font-size: 1.8em;
 
 @media only screen and (max-width : 600px) {
   #index-banner .section {
-    margin-top: 0px;
+    top: 0;
   }
 
   nav .nav-wrapper {
@@ -83,11 +83,10 @@ font-size: 1.8em;
 font-family: 'Raleway', sans-serif; 
 width: 120px; font-size: 2.0em;
   }
-
 .img-logo { margin-top: 5%; 
 width: 100px;
   }
-
+}
 
 .header-sub {
   margin: 5%;
